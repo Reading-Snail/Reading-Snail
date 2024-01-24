@@ -30,8 +30,17 @@ Here are some ideas to get you started:
 - ### 📚 Read Books, Books, Books! ... (최신순)
   - 이펙티브 자바
   - 스프링 시큐리티 인 액션
-  - 팀 개발을 위한 Git/GitHub 시작하기 
+  - 팀 개발을 위한 Git/GitHub 시작하기
+  - 개발자를 위한 레디스 ✅
+  - 자바 ORM 표준 JPA 프로그래밍 ✅
+  - 자바와 JUnit을 활용한 실용주의 단위 테스트 ✅ 
   - 실전 스프링 부트 ✅
+  - UML 실전에는 이것만 쓴다
+  - 헤드 퍼스트 디자인 패턴
+  - SQL Cookbook ✅
+  - Leaning SQL ✅
   - 토비의 스프링 3.1 vol.1,2 ✅
-  - 
-  - 
+  - 클린 아키텍처 ✅
+  - 클린 코드 ✅
+  - 스프링 입문을 위한 자바 객체 지향의 원리와 이해 ✅
+  - 자바의 정석 ✅
