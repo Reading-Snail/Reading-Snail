@@ -26,3 +26,12 @@ Here are some ideas to get you started:
   - 도커
   - 쿠버네티스
   - AWS
+
+- ### 📚 Read Books, Books, Books! ...
+  - 이펙티브 자바
+  - 스프링 시큐리티 인 액션
+  - 팀 개발을 위한 Git/GitHub 시작하기 
+  - 실전 스프링 부트 ✅
+  - 토비의 스프링 3.1 vol.1,2 ✅
+  - 
+  - 
