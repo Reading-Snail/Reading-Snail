@@ -1,4 +1,4 @@
-## 안녕하세요. 책읽는 달팽이 입니다. 👋
+## 안녕하세요. 책읽는 달팽이 입니다. 🐌
 
 <!--
 **Reading-Snail/Reading-Snail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
