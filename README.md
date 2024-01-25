@@ -44,3 +44,6 @@ Here are some ideas to get you started:
   - 클린 코드 ✅
   - 스프링 입문을 위한 자바 객체 지향의 원리와 이해 ✅
   - 자바의 정석 ✅
+
+- ### BLOG
+  - [velog.RedingSnail](https://velog.io/@reading-snail17/series)
