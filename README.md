@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - 쿠버네티스
   - AWS
 
-- ### 📚 Read Books, Books, Books! ... (최신순)
+- ### 📚 Read Books, Books, Books! ... (Latest)
   - 이펙티브 자바
   - 스프링 시큐리티 인 액션
   - 팀 개발을 위한 Git/GitHub 시작하기 ✅
