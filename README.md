@@ -14,22 +14,18 @@ Here are some ideas to get you started:
 -->
 
 - ### 🔭 I’m currently working on ...
+  - 회사에서 통합정산 프로젝트 개발에 참여 중 입니다. 
   - SpringBoot, OracleCloud, JPA, MyBatis 기반의 사내 표준 개발 프로젝트 진행 중 입니다.
+  - 모임 약속 정하는 것을 도와주는 사이드 프로젝트 개발중 입니다.
     
 - ### 🎄 I’m currently learning ...
-  - git과 GitHub에 대해서 깊이 있게 다시 공부하고 있습니다. '팀 개발을 위한 Git/GitHub 시작하기'
-  - Spring과 SpringBoot에 이어서 SpringSecurity를 학습 중입니다. '스프링 시큐리티 인 액션'
   - Java에 대한 부족한 이해도를 인지하여 학습 중입니다. '이펙티브 자바'
-    
-- ### 🌱 I’m planning to learn ...
-  - [roadmap.sh/backend](https://roadmap.sh/backend) 에 기초하여 지속적으로 학습 중입니다.
-  - 도커
-  - 쿠버네티스
-  - AWS
+  - 디자인 패턴에 대해 더 깊이 탐구 중 입니다. '디자인 패턴의 아름다움'
 
 - ### 📚 Books, Books, Books! ... (Latest)
+  - 디자인 패턴의 아름다움 
   - 이펙티브 자바
-  - 스프링 시큐리티 인 액션
+  - 스프링 시큐리티 인 액션 ✅
   - 팀 개발을 위한 Git/GitHub 시작하기 ✅
   - 개발자를 위한 레디스 ✅
   - 자바 ORM 표준 JPA 프로그래밍 ✅
